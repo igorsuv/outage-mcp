@@ -1,0 +1,44 @@
+# Город -> операторы. Для каждого оператора: откуда брать адрес->группа (address)
+# и графики (schedule). Новый город = новая запись; новый тип источника = новый provider.
+operators:
+  dtek_dnem:
+    name: ДТЕК Дніпровські електромережі
+    schedule: {provider: yasno, region_id: 3, dso_id: 301}
+  cek:
+    name: ЦЕК (Центральна енергетична компанія)
+    schedule: {provider: yasno, region_id: 3, dso_id: 303}
+  zoe:
+    name: Запоріжжяобленерго
+    schedule: {provider: zoe_site, url: "https://www.zoe.com.ua/outage/"}
+
+cities:
+  dnipro:
+    name: Дніпро
+    operators:
+      - operator: dtek_dnem
+        address: {provider: yasno, region_id: 3, dso_id: 301, city_id: 6}
+      - operator: cek
+        address: {provider: cek_site, city: "м. Дніпро"}
+  pokrov:
+    name: Покров
+    operators:
+      - operator: dtek_dnem
+        address: {provider: yasno, region_id: 3, dso_id: 301, city_id: 20}
+  zaporizhzhia:
+    name: Запоріжжя
+    operators:
+      - operator: zoe
+        address:
+          provider: zoe_sheets
+          sheets:
+            "1.1": 1JxeTi3tR7vRLPIhM6v32W3C_0-Ig28sjT--3wECuw9M
+            "1.2": 19q7Gj5qW6k6GMixakc7cuUAxqyCW5x8cr-tViD3xIQw
+            "2.2": 1BPbAd3VV4h8Hkle1Cczi4GCt2EggmbPhh396MxBz3hU
+            "3.1": 1tiInJeUJrAS0jy-v_Pad4YIa6LEF2vOfVH_m0hGsil8
+            "3.2": 1WeC9RtYQWb3y8Xy7oacB_WUl743ynT6IuqAj9WdOffI
+            "4.1": 1kIS8FDTLvfq1eZTcaiuSJwHippVKlsO-N_a10FAyksA
+            "4.2": 1MvwotnCvVA7BzYERRQ_CES80LWVbbEwE5DTfrm9D-jA
+            "5.1": 1ecxXysI0ls1ztebMuF1ZERWzt9lV84fUO-UxAhMG7SY
+            "5.2": 19kPmcvFtFDJSre-HiiV0Xs607CURnN4fHV_L-p6K4P0
+            "6.1": 1CSl6docaZLiCNDQNjoQuRWFpK_OdkNCJRF7H0oACycA
+            "6.2": 1Isd584TNNw5k0vhrate9kR9z-52LMnFjU24MIkaexkg

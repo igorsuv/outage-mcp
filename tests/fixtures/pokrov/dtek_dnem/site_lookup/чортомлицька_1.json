@@ -1,0 +1,201 @@
+{
+ "matched": [
+  "вул. Чортомлицька"
+ ],
+ "results": [
+  {
+   "street": "вул. Чортомлицька",
+   "house": "1",
+   "entry": {
+    "sub_type": "",
+    "start_date": "",
+    "end_date": "",
+    "type": "",
+    "sub_type_reason": [
+     "GPV1.1"
+    ],
+    "voluntarily": null,
+    "cek": null
+   }
+  }
+ ],
+ "raw": {
+  "вул. Чортомлицька": {
+   "result": true,
+   "data": {
+    "2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "3": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "4": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "5": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "7": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "9": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "10": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "4/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "б/н": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "6": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  }
+ }
+}

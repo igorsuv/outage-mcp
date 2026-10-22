@@ -1,0 +1,30 @@
+[project]
+name = "outage-bot"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28",
+    "pydantic>=2.10",
+    "pyyaml>=6.0",
+    "rapidfuzz>=3.10",
+    "mcp>=2.3,<3",
+    "uvicorn>=0.30",
+    "tzdata",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.24", "respx>=0.22"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["outage_bot*"]
+
+[tool.setuptools.package-data]
+outage_bot = ["config/*.yaml"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]

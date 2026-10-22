@@ -1,0 +1,31 @@
+{
+ "matched": [
+  "просп. Гагаріна"
+ ],
+ "results": [],
+ "raw": {
+  "просп. Гагаріна": {
+   "result": true,
+   "data": {
+    "7": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  }
+ }
+}

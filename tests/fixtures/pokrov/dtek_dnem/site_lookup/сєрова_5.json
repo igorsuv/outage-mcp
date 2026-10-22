@@ -1,0 +1,355 @@
+{
+ "matched": [
+  "вул. Сєрова"
+ ],
+ "results": [
+  {
+   "street": "вул. Сєрова",
+   "house": "5",
+   "entry": {
+    "sub_type": "",
+    "start_date": "",
+    "end_date": "",
+    "type": "",
+    "sub_type_reason": [
+     "GPV1.1"
+    ],
+    "voluntarily": null,
+    "cek": null
+   }
+  }
+ ],
+ "raw": {
+  "вул. Сєрова": {
+   "result": true,
+   "data": {
+    "2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "15": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "5": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "12/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "3": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "19": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "4": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "7": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1/5": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "16": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "17": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "7/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1/12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "б/н": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "21": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1/11": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "13": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "25": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "6": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "10": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "23": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "14": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1/6": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "27": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  }
+ }
+}

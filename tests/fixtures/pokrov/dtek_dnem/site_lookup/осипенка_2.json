@@ -1,0 +1,850 @@
+{
+ "matched": [
+  "вул. Осипенка"
+ ],
+ "results": [
+  {
+   "street": "вул. Осипенка",
+   "house": "2",
+   "entry": {
+    "sub_type": "",
+    "start_date": "",
+    "end_date": "",
+    "type": "",
+    "sub_type_reason": [
+     "GPV1.1"
+    ],
+    "voluntarily": null,
+    "cek": null
+   }
+  }
+ ],
+ "raw": {
+  "вул. Осипенка": {
+   "result": true,
+   "data": {
+    "70": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "128": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "108": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "100": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "130": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "82": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "б/н": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "120": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "54": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "38": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "142": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "126": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "60/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "112": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "14": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "78": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "106": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "138": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "26": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "84": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "122": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "102": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "132": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "4": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "34": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "62": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "34/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "40": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "28": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "90": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "10": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "66": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "36": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "116": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "46": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "86": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "24": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "52": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "88": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "64": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "32": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "114": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "16": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "124": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "92": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "134": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "30": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "74": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "104": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "68": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "110": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "22": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "98": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "118": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "6": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "140": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "18": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "136": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "72": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "94": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "60": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  }
+ }
+}

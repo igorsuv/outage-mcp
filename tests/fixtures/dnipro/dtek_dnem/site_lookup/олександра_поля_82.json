@@ -1,0 +1,2806 @@
+{
+ "matched": [
+  "просп. Поля Олександра",
+  "просп. Олександра Поля"
+ ],
+ "results": [
+  {
+   "street": "просп. Поля Олександра",
+   "house": "82",
+   "entry": {
+    "sub_type": "",
+    "start_date": "",
+    "end_date": "",
+    "type": "",
+    "sub_type_reason": [
+     "GPV3.1"
+    ],
+    "voluntarily": null,
+    "cek": null
+   }
+  }
+ ],
+ "raw": {
+  "просп. Поля Олександра": {
+   "result": true,
+   "data": {
+    "15": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "60": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "121": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "31": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.1",
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "110": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1",
+      "GPV5.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "60/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "26": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "27": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1/9": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "97": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "22": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "54": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "18/ПРИМ119А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "137/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "115/ПРИМ.108": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "85": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "98/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1",
+      "GPV1.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "104": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Г,Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "28/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "102/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "123": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "54/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "121/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59/ПІД. 6": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "78/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "92": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "135/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "106": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "95/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "94": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "103": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "46/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.1",
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "119/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "101/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Л": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "93/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "43": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "52": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "111/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "97К": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "96/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8А/ГАРАЖ 1": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2",
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "108": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "109": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "95": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1437": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "137": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "100": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "115": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "111/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "129": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "18": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "117": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "84/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "135/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "72": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "10": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "86": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "13": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "20": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "127/прим. 130": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "46_Н": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "68": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "125/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "113/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "98/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV1.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "92/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "98": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "102": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1",
+      "GPV3.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107/М": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "45": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59/ПІД. 2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "89/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "37": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "27/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "131": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "27Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "85/ПРИМ.1": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "109/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "105/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59/541": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "93": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "57": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "115/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59/ПІД. 4, 5": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "97/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "121/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "100/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "27/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "36": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "129/Р": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "2/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "127": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "85/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "117/115": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "35": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "51": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "45/2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "111": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "19": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "121/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "74": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "84": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2",
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "46": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42-44/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "89": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "21": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "4": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "24": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "82/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "129/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "91": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "Б10/12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "78": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "125": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/Д": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "125Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "82": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "113": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "88": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "119/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "16": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "18_2": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "25": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "64": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48-В/ПРИМ.82": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "90/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "11587": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "10/12": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "29": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "8/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48В/82": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "90": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV5.2"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "66": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "17": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "143/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "95/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "62": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "87": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "119": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "93/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "94/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "1": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "24_26": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "14": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "94/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "102/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "9": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "14/К": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "102/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "83": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "70/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "28": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "Б/Н": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "119Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "107": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "7": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "581": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "40": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  },
+  "просп. Олександра Поля": {
+   "result": true,
+   "data": {
+    "91": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "89": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "62": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "18": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "59": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "24": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "78": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/Б": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "22": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "74": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/Г": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "76/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "68": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "45": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "66": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "50": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "87": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "43": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "64": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "80/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "72": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "85": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "20": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "48/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "42": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "44/В": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "58/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    },
+    "56/А": {
+     "sub_type": "",
+     "start_date": "",
+     "end_date": "",
+     "type": "",
+     "sub_type_reason": [
+      "GPV3.1"
+     ],
+     "voluntarily": null,
+     "cek": null
+    }
+   },
+   "showCurOutageParam": true,
+   "showCurSchedule": true,
+   "showTableSchedule": true,
+   "showTablePlan": false,
+   "showTableFact": true,
+   "showUserGroup": true,
+   "updateTimestamp": "17:18 22.10.2026"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: outage-mcp
+    runtime: docker
+    plan: free
+    region: frankfurt
+    healthCheckPath: /healthz
+    envVars:
+      - key: MCP_SECRET
+        sync: false
+      - key: LOG_LEVEL
+        value: INFO
