@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "outage-cloud": {
+      "type": "http",
+      "url": "https://outage-mcp.onrender.com/mcp/${OUTAGE_MCP_SECRET}"
+    }
+  }
+}
