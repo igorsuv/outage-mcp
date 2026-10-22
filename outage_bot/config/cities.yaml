@@ -22,6 +22,7 @@ cities:
         address: {provider: cek_site, city: "м. Дніпро"}
   pokrov:
     name: Покров
+    renames: renames/pokrov.yaml
     operators:
       - operator: dtek_dnem
         address: {provider: yasno, region_id: 3, dso_id: 301, city_id: 20}
