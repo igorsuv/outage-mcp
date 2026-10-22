@@ -12,6 +12,7 @@ from outage_bot.core.normalize import house_key, search_token, street_aliases, s
         ("вул. Воз`єднання України", "вул. Воз’єднання України"),
         ("пров. Тупиковий", "Тупиковий"),
         ("ул. Робоча", "вулиця Робоча"),
+        ("вул. Героїв-Рятувальників", "Героїв Рятувальників"),
     ],
 )
 def test_street_key_equal(a, b):

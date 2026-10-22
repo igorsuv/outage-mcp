@@ -113,3 +113,8 @@ async def test_unrelated_street_not_renamed():
 def test_dnipro_renames_loaded():
     registry = load_registry(httpx.AsyncClient())
     assert registry.cities["dnipro"].renames["Замполіта Бєляєва"] == ["Вадима Жукова"]
+
+
+def test_pokrov_renames_loaded():
+    registry = load_registry(httpx.AsyncClient())
+    assert registry.cities["pokrov"].renames["Газети Правди"] == ["Соборна"]
