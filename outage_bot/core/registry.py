@@ -20,6 +20,7 @@ class City:
     key: str
     name: str
     address: dict[str, AddressProvider] = field(default_factory=dict)
+    renames: dict[str, list[str]] = field(default_factory=dict)
 
 
 @dataclass
@@ -44,6 +45,8 @@ def load_registry(client: httpx.AsyncClient, path: pathlib.Path = DEFAULT_CONFIG
     cities = {}
     for key, conf in raw["cities"].items():
         city = City(key=key, name=conf["name"])
+        if "renames" in conf:
+            city.renames = yaml.safe_load((path.parent / conf["renames"]).read_text(encoding="utf-8"))
         for entry in conf["operators"]:
             if entry["operator"] not in operators:
                 raise ValueError(f"Город {key}: неизвестный оператор {entry['operator']!r}")

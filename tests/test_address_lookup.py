@@ -78,3 +78,38 @@ async def test_dnipro_cek_source_down():
             router.get(CEK_URL).mock(return_value=httpx.Response(503))
             r = await lookup(registry, "dnipro", "просп. Олександра Поля", "18")
     assert r.status == "unavailable" and r.unavailable == ["cek"]
+
+
+class ByStreet:
+    def __init__(self, street, result):
+        self.street, self.result = street, result
+
+    async def lookup(self, street, house):
+        return self.result if street == self.street else AddressHits(suggestions=[f"{street}: дом {house} не найден"])
+
+
+def reg_renames(provider, renames):
+    return Registry(cities={"c": City(key="c", name="C", address={"a": provider}, renames=renames)}, operator_names={}, schedules={})
+
+
+async def test_old_street_name_resolves_to_new():
+    r = await lookup(reg_renames(ByStreet("Вадима Жукова", AddressHits(hits=[hit("1.2", street="вул. Жукова Вадима")])), {"Бєляєва": ["Вадима Жукова"]}), "c", "вул. Бєляєва", "18")
+    assert r.status == "found" and r.matches[0].groups == ["1.2"]
+    assert "Бєляєва" in r.matches[0].note and "Вадима Жукова" in r.matches[0].note
+
+
+async def test_old_street_name_with_typo_or_russian_spelling():
+    p = ByStreet("Вадима Жукова", AddressHits(hits=[hit("1.2")]))
+    for street in ("Беляєва", "Беляева", "Біляєва"):
+        r = await lookup(reg_renames(p, {"Замполіта Бєляєва": ["Вадима Жукова"], "Бєляєва": ["Вадима Жукова"]}), "c", street, "18")
+        assert r.status == "found", street
+
+
+async def test_unrelated_street_not_renamed():
+    r = await lookup(reg_renames(ByStreet("Вадима Жукова", AddressHits(hits=[hit("1.2")])), {"Бєляєва": ["Вадима Жукова"]}), "c", "Робоча", "18")
+    assert r.status == "not_found"
+
+
+def test_dnipro_renames_loaded():
+    registry = load_registry(httpx.AsyncClient())
+    assert registry.cities["dnipro"].renames["Замполіта Бєляєва"] == ["Вадима Жукова"]

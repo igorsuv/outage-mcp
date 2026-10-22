@@ -2,6 +2,7 @@ import re
 
 _APOSTROPHES = str.maketrans({"’": "'", "`": "'", "ʼ": "'", "‘": "'", "´": "'"})
 _LATIN_TO_CYR = str.maketrans("ABCEHIKMOPTX", "АВСЕНІКМОРТХ")
+_LOOSE = str.maketrans({"є": "е", "э": "е", "і": "и", "ї": "и", "ы": "и", "'": None})
 _STREET_TYPES = (
     r"вулиця|вул|улица|ул|проспект|просп|пр-т|пр|провулок|пров|переулок|пер|бульвар|бул|б-р|"
     r"площа|пл|наб|туп|ж/м|ж-м|мкр|кв-л"
@@ -23,6 +24,11 @@ def street_aliases(name: str) -> list[str]:
     keys = [street_key(name)]
     keys += [street_key(m) for m in re.findall(r"\((.*?)\)", name)]
     return [k for k in dict.fromkeys(keys) if k]
+
+
+def loose_key(name: str) -> str:
+    """street_key без различий укр/рус написания: 'Бєляєва' == 'Беляева'."""
+    return street_key(name).translate(_LOOSE)
 
 
 def search_token(name: str) -> str:
